@@ -46,6 +46,9 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="FormMain1.cs">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="FormShowFish.cs">
       <SubType>Form</SubType>
     </Compile>
